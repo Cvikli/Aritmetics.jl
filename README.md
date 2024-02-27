@@ -1,3 +1,5 @@
+[ DEPRECATED ] PKG moved to: https://github.com/Cvikli/Arithmetics.jl
+
 ## Aritmetics.jl
 
 Basic & advanced arithmetic operations and their derivative (for backpropagation) + formatting functions.
